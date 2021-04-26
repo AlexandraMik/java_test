@@ -20,7 +20,7 @@
         <allure.version>2.10.0</allure.version>
         <allure-java-commons.version>2.10.0</allure-java-commons.version>
         <aspectj.version>1.9.2</aspectj.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <slf4j-simple.version>1.7.21</slf4j-simple.version>
         <maven-surefire-plugin.version>2.20</maven-surefire-plugin.version>
         <allure-maven.version>2.9</allure-maven.version>
